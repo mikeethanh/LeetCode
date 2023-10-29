@@ -1,0 +1,3 @@
+﻿  binary_search.cpp
+E:\code\leet_code\binary_search\binary_search.cpp(7,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  binary_search.vcxproj -> E:\code\leet_code\x64\Debug\binary_search.exe
